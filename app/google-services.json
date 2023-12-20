@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048935900862",
+    "project_id": "zdejciaapp",
+    "storage_bucket": "zdejciaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048935900862:android:4e76002f960491c2e3e0ef",
+        "android_client_info": {
+          "package_name": "com.example.zdejciaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8568UKzRlaqi18cL2m3Wx-3V2zJzcHwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
